@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Eugen Bauer"
   avatar           : "profile.png"
-  bio              : "Bioinformatics - Systems Biology - Symbiosis"
+  bio              : "Bioinformatics - Symbiosis - Systems Biology"
   location         : "Mainz"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=uifOgssAAAAJ&hl=en"
@@ -98,14 +98,14 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/eugen-bauer-2a9073151/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/eugbau"
+  twitter          : "eugbau"
   vine             :
   weibo            :
   xing             :
