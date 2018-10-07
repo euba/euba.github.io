@@ -1,7 +1,7 @@
 ---
 title: "From Network Analysis to Functional Metabolic Modeling of the Human Gut Microbiota"
 collection: publications
-permalink: /publication/2018-03-paper
+permalink: /publication/2018-03-01-paper-title-number-2
 excerpt: 'In this review, different methods in community modeling and their impact on the human microbiota are discussed.'
 date: 2018-03-01
 venue: 'mSystems'

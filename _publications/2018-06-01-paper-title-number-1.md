@@ -1,7 +1,7 @@
 ---
 title: "From metagenomic data to personalized computational microbiotas: Predicting dietary supplements for Crohn's disease"
 collection: publications
-permalink: /publication/2018-06-paper
+permalink: /publication/2018-06-01-paper-title-number-1
 excerpt: 'In this paper, BacArena was applied to study dietary effects on the gut microbiota of Crohn's disease patients.'
 date: 2018-06-01
 venue: 'NPG Systems Biology and Applications'
