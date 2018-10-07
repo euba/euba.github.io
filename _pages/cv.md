@@ -37,12 +37,6 @@ Research experience
   * Max Planck Institute for Terrestrial Microbiology Marburg 
   * The gut microbiota of xylophagous cockroaches
 
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
 Publications
 ======
   <ul>{% for post in site.publications %}
