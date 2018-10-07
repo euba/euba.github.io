@@ -27,7 +27,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>academicpages.github.io/2009-10-01-paper-title-number-1.md at master · academicpages/academicpages.github.io</title>
+  <title>academicpages.github.io/2010-10-01-paper-title-number-2.md at master · academicpages/academicpages.github.io</title>
     <meta name="description" content="Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes - academicpages/academicpages.github.io">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -37,10 +37,10 @@
     <meta property="og:image" content="https://avatars3.githubusercontent.com/u/22107085?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="academicpages/academicpages.github.io" /><meta property="og:url" content="https://github.com/academicpages/academicpages.github.io" /><meta property="og:description" content="Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes - academicpages/academicpages.github.io" />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MzI1MTAyMDM4OjI4OWEzMWMwOWE0YjdmZjYxZmZmNTE3ZWEzODZlMThkMzJjN2EwOGE2MTI3YjZkZTcxYjYwZWRlMTRiMmRlZjg=--a9be016924ae337a8e3ef8c70fa041f111bf9d53">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MzI1MTAyMDM4OmZhYjNmZTI5ZTdlMzI2NTVkNWQwNjg2NWNhOTJlZjZmZmY1YWY4MGQwYjEzZWNiNmI1NDZkMjg2MjA1MzZkYWI=--c00e4430708100e51c72c64d0e103b6d002ef302">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="4DE8:0D3C:4DED25B:8B38B01:5BBA6433" data-pjax-transient>
+  <meta name="request-id" content="4DE8:0D3C:4DED11A:8B3883F:5BBA642D" data-pjax-transient>
 
 
   
@@ -51,7 +51,7 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="4DE8:0D3C:4DED25B:8B38B01:5BBA6433" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="4113252" /><meta name="octolytics-actor-login" content="euba" /><meta name="octolytics-actor-hash" content="e354d635a1bd14c3305ddf389cd51b35aab1c44cc7b358fa5e39db1a10fe9889" />
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="4DE8:0D3C:4DED11A:8B3883F:5BBA642D" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="4113252" /><meta name="octolytics-actor-login" content="euba" /><meta name="octolytics-actor-hash" content="e354d635a1bd14c3305ddf389cd51b35aab1c44cc7b358fa5e39db1a10fe9889" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
 
@@ -70,7 +70,7 @@
     <meta name="user-login" content="euba">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="NWQ3NGJlYTI5NTE3ZmNjNThhYTM1MTcyODMxMzU0Nzg0N2U0YWVjNGY0MzNlYTY0ZWEwNDc1ODYzNjA5MmYyMnx7InJlbW90ZV9hZGRyZXNzIjoiOTUuOTEuMjE4LjEwOSIsInJlcXVlc3RfaWQiOiI0REU4OjBEM0M6NERFRDI1Qjo4QjM4QjAxOjVCQkE2NDMzIiwidGltZXN0YW1wIjoxNTM4OTQyMDA3LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+    <meta name="js-proxy-site-detection-payload" content="MDMxNzk2Nzc0NWEwYjk0YzUzOTg0YjRkMmMyNzYyOWQ1Njk5ODg0OWQ1MWQ1ODQ2NDRlNTZlOGFjMmI3YzliYnx7InJlbW90ZV9hZGRyZXNzIjoiOTUuOTEuMjE4LjEwOSIsInJlcXVlc3RfaWQiOiI0REU4OjBEM0M6NERFRDExQTo4QjM4ODNGOjVCQkE2NDJEIiwidGltZXN0YW1wIjoxNTM4OTQyMDAzLCJob3N0IjoiZ2l0aHViLmNvbSJ9">
 
     <meta name="enabled-features" content="DASHBOARD_V2_LAYOUT_OPT_IN,EXPLORE_DISCOVER_REPOSITORIES,UNIVERSE_BANNER,MARKETPLACE_PLAN_RESTRICTION_EDITOR,MARKETPLACE_RETARGETING,COLLAPSE_REPEATED_COMMENTS">
 
@@ -86,7 +86,7 @@
   <meta name="octolytics-dimension-user_id" content="22107085" /><meta name="octolytics-dimension-user_login" content="academicpages" /><meta name="octolytics-dimension-repository_id" content="68287594" /><meta name="octolytics-dimension-repository_nwo" content="academicpages/academicpages.github.io" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="68287594" /><meta name="octolytics-dimension-repository_network_root_nwo" content="academicpages/academicpages.github.io" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/academicpages/academicpages.github.io/blob/master/_publications/2009-10-01-paper-title-number-1.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/academicpages/academicpages.github.io/blob/master/_publications/2010-10-01-paper-title-number-2.md" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -155,7 +155,7 @@
           autocapitalize="off"
           aria-autocomplete="list"
           aria-controls="jump-to-results"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=yvfNcFYLqc7m7yQGmOnVZ0e9gX1HhjpWmC690KaxBWcIa/tIM41VDe+jmiqOBDilrqA9yGiTG2wMz07JhfE7kg=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=PDP/CXs7A3LRzT6yAwNqkg87c/nFsc5QJqLdBo/PHTz+r8kxHr3/sdiBgJ4V7odQ5ibPTOqk72qyQy4frI8jyQ=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -309,7 +309,7 @@
           <li><a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a></li>
           <li><a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a></li>
           <li>
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="m7iJCRVW67dULhML6rD1TwF0Elt69pjAspAMRhj/rwwXOSj2hXJVPxJXJc4jy7The9ptOZOzQNq51WWUbhfMdQ==" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="wzwQ9+MVTkIn7bplj/ZplktXmRtMlAVcANOxmM9UawpPvbEIczHwymGUjKBGjSg4MfnmeaXR3UYLlthKubwIcw==" />
               <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
                 Sign out
               </button>
@@ -322,7 +322,7 @@
 
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="2XO+7xHKGMHyEMqgCSnktLu8jlwwvyVkYXmRfKE8CGhV8h8Qge6mSbRp/GXAUqUawRLxPtn6/X5qPPiu19RrEQ==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="5IJzri0JKc9QDMhrUZN1LvszUWuckkpOXOj9bfYkaqJoA9JRvS2XRxZ1/q6Y6DSAgZ0uCXXXklRXrZS/gMwJ2w==" />
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -362,7 +362,7 @@
 
       <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="xv+go2DIZTu1T1dR5YgeEDhpASJFq5WpccPBaWMi3kBz7mAMbjRfFwzMbWFabLqbvcDGE2NscmMJ9JWAbTCZXQ==" />      <input type="hidden" name="repository_id" id="repository_id" value="68287594" class="form-control" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Pv40GYfV3r4c/3OwSma0XIjv6B0WEbEH0Y15tx4gHvWL7/S2iSnkkqV8SYD1ghDXDUYvLDDWVs2pui1eEDJZ6A==" />      <input type="hidden" name="repository_id" id="repository_id" value="68287594" class="form-control" />
 
       <details class="details-reset details-overlay select-menu float-left">
         <summary class="btn btn-sm btn-with-count select-menu-button" data-ga-click="Repository, click Watch settings, action:blob#show">
@@ -425,7 +425,7 @@
   <li>
     
   <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/academicpages/academicpages.github.io/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="am9tkOBMGCqAR79uCEdKZqnIHsUJUj8WJAkBAFcIasw0GOezVM90MzTLooLKGp4kh3jBa5Y46ZnrkEYOutrx5w==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/academicpages/academicpages.github.io/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="aLvUIXL+DmOtGXP8Wul8HsN6Ejru6Sjs3inLugy/7t82zF4Cxn1iehmVbhCYtKhc7crNlHGD/mMRsIy04W119A==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -440,7 +440,7 @@
           890
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/academicpages/academicpages.github.io/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="tLinurhlKhS+5pHZY4LeninYZgbRsdSQPBr0dKIYdKYKU3ZsRlN3xmC8UyuO2sSeR2bT0YTs4+6jeqRSmkVRRA==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/academicpages/academicpages.github.io/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="BPe6YViuh0LqDWlUL0W58yWFnZnA1+9+X7f5FWE4iha6HGu3ppjakDRXq6bCHaPzSzsoTpWK2ADA16kzWWWv9A==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -459,7 +459,7 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/academicpages/academicpages.github.io/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="saQIOIquGuYEZ5fD1div3DxTFnGG5st5eDRN5aBUQjcmuvOrxryXa3FSwUGJfh9TTa2//BvZjS5vNZm0pqPN7w==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/academicpages/academicpages.github.io/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="TfNNvU9FCb+vzjVm8e4VziDiJTKGkHsn3a9wUhhuG6Ta7bYuA1eEMtr7Y+StSKVBURyMvxuvPXDKrqQDHpmUfA==" />
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
@@ -543,9 +543,9 @@
     
 
   
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/academicpages/academicpages.github.io/blob/15a32f0eb4ed86e7873b0a32179d59d720b7783e/_publications/2009-10-01-paper-title-number-1.md">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/academicpages/academicpages.github.io/blob/15a32f0eb4ed86e7873b0a32179d59d720b7783e/_publications/2010-10-01-paper-title-number-2.md">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v21:4c39892363dc9af27b098a265962bf85 -->
+    <!-- blob contrib key: blob_contributors:v21:1a39f896fa76bc9fe8617c066df95b85 -->
 
     
 
@@ -589,7 +589,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/academicpages/academicpages.github.io/blob/fix-teaching/_publications/2009-10-01-paper-title-number-1.md"
+               href="/academicpages/academicpages.github.io/blob/fix-teaching/_publications/2010-10-01-paper-title-number-2.md"
                data-name="fix-teaching"
                data-skip-pjax="true"
                rel="nofollow">
@@ -599,7 +599,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/academicpages/academicpages.github.io/blob/master/_publications/2009-10-01-paper-title-number-1.md"
+               href="/academicpages/academicpages.github.io/blob/master/_publications/2010-10-01-paper-title-number-2.md"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -609,7 +609,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/academicpages/academicpages.github.io/blob/read-more/_publications/2009-10-01-paper-title-number-1.md"
+               href="/academicpages/academicpages.github.io/blob/read-more/_publications/2010-10-01-paper-title-number-2.md"
                data-name="read-more"
                data-skip-pjax="true"
                rel="nofollow">
@@ -628,7 +628,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/academicpages/academicpages.github.io/tree/v0.8.1/_publications/2009-10-01-paper-title-number-1.md"
+              href="/academicpages/academicpages.github.io/tree/v0.8.1/_publications/2010-10-01-paper-title-number-2.md"
               data-name="v0.8.1"
               data-skip-pjax="true"
               rel="nofollow">
@@ -638,7 +638,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/academicpages/academicpages.github.io/tree/0.8.0/_publications/2009-10-01-paper-title-number-1.md"
+              href="/academicpages/academicpages.github.io/tree/0.8.0/_publications/2010-10-01-paper-title-number-2.md"
               data-name="0.8.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -668,54 +668,21 @@
         </clipboard-copy>
       </div>
       <div id="blob-path" class="breadcrumb">
-        <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/academicpages/academicpages.github.io"><span>academicpages.github.io</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/academicpages/academicpages.github.io/tree/master/_publications"><span>_publications</span></a></span><span class="separator">/</span><strong class="final-path">2009-10-01-paper-title-number-1.md</strong>
+        <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/academicpages/academicpages.github.io"><span>academicpages.github.io</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/academicpages/academicpages.github.io/tree/master/_publications"><span>_publications</span></a></span><span class="separator">/</span><strong class="final-path">2010-10-01-paper-title-number-2.md</strong>
       </div>
     </div>
 
 
-    
-  <div class="commit-tease">
-      <span class="float-right">
-        <a class="commit-tease-sha" href="/academicpages/academicpages.github.io/commit/81c8f1a2118fefff14544853d284751ca14e956e" data-pjax>
-          81c8f1a
-        </a>
-        <relative-time datetime="2017-03-28T01:31:49Z">Mar 27, 2017</relative-time>
-      </span>
+    <include-fragment src="/academicpages/academicpages.github.io/contributors/master/_publications/2010-10-01-paper-title-number-2.md" class="commit-tease commit-loader">
       <div>
-        <a rel="contributor" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=4693439" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/staeiou"><img class="avatar" src="https://avatars3.githubusercontent.com/u/4693439?s=40&amp;v=4" width="20" height="20" alt="@staeiou" /></a>
-        <a class="user-mention" rel="contributor" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=4693439" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/staeiou">staeiou</a>
-          <a data-pjax="true" title="modify examples to reflect output of new markdown_generator scripts" class="message" href="/academicpages/academicpages.github.io/commit/81c8f1a2118fefff14544853d284751ca14e956e">modify examples to reflect output of new markdown_generator scripts</a>
+        Fetching contributors&hellip;
       </div>
 
-    <div class="commit-tease-contributors">
-      
-<details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark float-left mr-2" id="blob_contributors_box">
-  <summary class="btn-link" aria-haspopup="dialog"  >
-    
-    <span><strong>1</strong> contributor</span>
-  </summary>
-  <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast " aria-label="Users who have contributed to this file">
-    <div class="Box-header">
-      <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
-        <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
-      </button>
-      <h3 class="Box-title">Users who have contributed to this file</h3>
-    </div>
-    
-        <ul class="list-style-none overflow-auto">
-            <li class="Box-row">
-              <a class="link-gray-dark no-underline" href="/staeiou">
-                <img class="avatar mr-2" alt="" src="https://avatars3.githubusercontent.com/u/4693439?s=40&amp;v=4" width="20" height="20" />
-                staeiou
-</a>            </li>
-        </ul>
-
-  </details-dialog>
-</details>
-      
-    </div>
-  </div>
-
+      <div class="commit-tease-contributors">
+          <img alt="" class="loader-loading float-left" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32-EAF2F5.gif" width="16" height="16" />
+        <span class="loader-error">Cannot retrieve contributors at this time</span>
+      </div>
+</include-fragment>
 
 
     <div class="file ">
@@ -723,25 +690,25 @@
   <div class="file-actions">
 
     <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/academicpages/academicpages.github.io/raw/master/_publications/2009-10-01-paper-title-number-1.md">Raw</a>
-        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/academicpages/academicpages.github.io/blame/master/_publications/2009-10-01-paper-title-number-1.md">Blame</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/academicpages/academicpages.github.io/commits/master/_publications/2009-10-01-paper-title-number-1.md">History</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/academicpages/academicpages.github.io/raw/master/_publications/2010-10-01-paper-title-number-2.md">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/academicpages/academicpages.github.io/blame/master/_publications/2010-10-01-paper-title-number-2.md">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/academicpages/academicpages.github.io/commits/master/_publications/2010-10-01-paper-title-number-2.md">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
-           href="github-mac://openRepo/https://github.com/academicpages/academicpages.github.io?branch=master&amp;filepath=_publications%2F2009-10-01-paper-title-number-1.md"
+           href="github-mac://openRepo/https://github.com/academicpages/academicpages.github.io?branch=master&amp;filepath=_publications%2F2010-10-01-paper-title-number-2.md"
            aria-label="Open this file in GitHub Desktop"
            data-ga-click="Repository, open with desktop, type:mac">
             <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
         </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/academicpages/academicpages.github.io/edit/master/_publications/2009-10-01-paper-title-number-1.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Vc71zpt5rWH9PceFv+Yp/qJ7mvIHho1Rl6iWl+kR7vJxuGpzyH3yUCIGgB5/QNEL/sY8qHiynVWZFAJvHVzc0w==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/academicpages/academicpages.github.io/edit/master/_publications/2010-10-01-paper-title-number-2.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="l/P3cmQ0tlUow97fjoV2V8iGlYxPl3LWTqSZ4Obvj7ytq8TDF+pbmBlPJwqekgUYikukW6bJ8cL/woiLy3o9Jw==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Edit the file in your fork of this project" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
             </button>
 </form>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/academicpages/academicpages.github.io/delete/master/_publications/2009-10-01-paper-title-number-1.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="bIGo2Ano0UPVUhcfGeD+/DEBkFdL4POKWCtxWCEDR/yh/uWoLUgtybDJ9Rd3BNM0R+ShAkDcZ1hFI8HVznW70g==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/academicpages/academicpages.github.io/delete/master/_publications/2010-10-01-paper-title-number-2.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="k5hjC+m/7gpde/6P2rDNeCHag6mkh5SWiXQU9EWM+RjENSKD2jhuI3WCoS7OMZqxp3gPb91vbPqDPLTGrMNlQw==" />
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Delete the file in your fork of this project" data-disable-with>
             <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -772,21 +739,21 @@
   </thead>
   <tbody>
   <tr>
-  <td><div>Paper Title Number 1</div></td>
+  <td><div>Paper Title Number 2</div></td>
   <td><div>publications</div></td>
-  <td><div>/publication/2009-10-01-paper-title-number-1</div></td>
-  <td><div>This paper is about the number 1. The number 2 is left for future work.</div></td>
-  <td><div>2009-10-01</div></td>
+  <td><div>/publication/2010-10-01-paper-title-number-2</div></td>
+  <td><div>This paper is about the number 2. The number 3 is left for future work.</div></td>
+  <td><div>2010-10-01</div></td>
   <td><div>Journal 1</div></td>
-  <td><div><a href="http://academicpages.github.io/files/paper1.pdf" rel="nofollow">http://academicpages.github.io/files/paper1.pdf</a></div></td>
-  <td><div>Your Name, You. (2009). &amp;quot;Paper Title Number 1.&amp;quot; &lt;i&gt;Journal 1&lt;/i&gt;. 1(1).</div></td>
+  <td><div><a href="http://academicpages.github.io/files/paper2.pdf" rel="nofollow">http://academicpages.github.io/files/paper2.pdf</a></div></td>
+  <td><div>Your Name, You. (2010). &amp;quot;Paper Title Number 2.&amp;quot; &lt;i&gt;Journal 1&lt;/i&gt;. 1(2).</div></td>
   </tr>
   </tbody>
 </table>
 
-<p>This paper is about the number 1. The number 2 is left for future work.</p>
-<p><a href="http://academicpages.github.io/files/paper1.pdf" rel="nofollow">Download paper here</a></p>
-<p>Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).</p>
+<p>This paper is about the number 2. The number 3 is left for future work.</p>
+<p><a href="http://academicpages.github.io/files/paper2.pdf" rel="nofollow">Download paper here</a></p>
+<p>Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).</p>
 </article>
   </div>
 
@@ -817,7 +784,7 @@
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2018 <span title="0.22500s from unicorn-6667d8854d-lzz6m">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2018 <span title="0.28717s from unicorn-6667d8854d-2cz98">GitHub</span>, Inc.</li>
         <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3"><a href="https://help.github.com/articles/github-security/" data-ga-click="Footer, go to security, text:security">Security</a></li>
