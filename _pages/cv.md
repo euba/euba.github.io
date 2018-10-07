@@ -43,11 +43,6 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-Software
-======
-* R package for modeling of metabolic interactions in microbial communities: [BacArena](https://cran.r-project.org/web/packages/BacArena/index.html)
-* Check out my [GitHub page](https://github.com/euba) for further scripts and code
-
 Publications
 ======
   <ul>{% for post in site.publications %}
