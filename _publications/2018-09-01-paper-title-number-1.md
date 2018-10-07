@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "From metagenomic data to personalized computational microbiotas: Predicting dietary supplements for Crohns disease"
 collection: publications
 permalink: /publication/2018-09-01-paper-title-number-1
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'In this paper, BacArena was applied to study dietary effects on the gut microbiota of Crohns disease patients.'
 date: 2018-09-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+venue: 'NPG Systems Biology and Applications'
+paperurl: 'https://www.nature.com/articles/s41540-018-0063-2'
+citation: 'Eugen Bauer, Ines Thiele. (2018). &quot;From metagenomic data to personalized computational microbiotas: Predicting dietary supplements for Crohns disease.&quot; <i>NPG Systems Biology and Applications</i>. 4(1).'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+In this paper, BacArena was applied to study dietary effects on the gut microbiota of Crohn's disease patients.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://www.nature.com/articles/s41540-018-0063-2)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Eugen Bauer, Ines Thiele: From metagenomic data to personalized computational microbiotas: Predicting dietary supplements for Crohns disease. NPG Systems Biology and Applications 2018; 4(1), 27 
