@@ -6,11 +6,10 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
-        
+#  - title: "Teaching"
+#    url: /teaching/            
   - title: "Games"
-    url: /year-archive/
+    url: /teaching/
     
   - title: "CV"
     url: /cv/

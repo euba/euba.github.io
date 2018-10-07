@@ -11,49 +11,45 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Science in Biology, Philipps University of Marburg, 2011
+* Master of Science in Bioinformatics, Friedrich Schiller University Jena, 2013
+* Ph.D degree in Biology, University of Luxembourg, 2017
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 01/2018 - today: Postdoctoral scientist
+  * Johannes Gutenberg-University Mainz
+  * Nutritional systems biology of the cotton stainer
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* 03/2014 - 11/2017: Ph.D student
+  * Luxembourg Centre for Systems Biomedicine 
+  * Ecosystems metabolic modeling for studying the human gut microbiota
+
+* 11/2013 - 02/2014: Technician on project
+  * Luxembourg Centre for Systems Biomedicine 
+  * Analysis of human gut microbes with systems biology techniques
+
+* 10/2012 - 10/2013: Master student
+  * Max Planck Institute for Chemical Ecology Jena
+  * Transcriptomic changes in the midgut of the cotton stainer
+
+* 11/2010 - 09/2011: Bachelor student
+  * Max Planck Institute for Terrestrial Microbiology Marburg 
+  * The gut microbiota of xylophagous cockroaches
+
+Talks
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
+Software
+======
+* R package for modeling of metabolic interactions in microbial communities: [BacArena](https://cran.r-project.org/web/packages/BacArena/index.html)
+* Check out my [GitHub page](https://github.com/euba) for further scripts and code
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
