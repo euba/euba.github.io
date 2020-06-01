@@ -9,8 +9,8 @@ main:
   - title: "Gallery"
     url: /gallery/    
 
-  - title: "Games"
-    url: /games/            
+#  - title: "Games"
+#    url: /games/            
 #  - title: "Games"
 #    url: /portfolio/
 
