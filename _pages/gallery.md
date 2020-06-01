@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Games"
-permalink: /games/
+title: "Gallery"
+permalink: /gallery/
 author_profile: true
 ---
 
