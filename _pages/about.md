@@ -12,8 +12,8 @@ I am passionate about bioinformatics and programming. My scientific interests ar
 
 My research
 ------
-Why do organisms cooperate, instead of living solitarily? I am interested in this questions in relation to symbiotic associations between microbes and animals. Mostly, I work on [insect symbionts](https://www.ncbi.nlm.nih.gov/pubmed/29153832), but I have worked on the [human gut microbiota](https://www.ncbi.nlm.nih.gov/pubmed/30083388) as well. To study these symbioses, I also develop [software packages](https://www.ncbi.nlm.nih.gov/pubmed/28531184). I am currently working at the [Johannes Gutenberg-University Mainz](http://www.bio.uni-mainz.de/zoo/oekologie/277_ENG_HTML.php).
+Why do organisms cooperate, instead of living solitarily? I am interested in this questions in relation to symbiotic associations between microbes and animals. Mostly, I currently work on insect symbionts, but I have worked on the human gut microbiota as well. To study these symbioses, I also develop software packages. I am currently working at the [Johannes Gutenberg-University Mainz](http://www.bio.uni-mainz.de/zoo/oekologie/277_ENG_HTML.php).
 
 My games 
 ------
-In my free time, I like to develop mobile games. Mobile technologies are exciting and full of opportunities. Most of my games have an [educational focus](http://inople.com).
+In my free time, I like to develop educational games.
