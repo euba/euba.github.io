@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am passionate about bioinformatics and programming. My scientific interests are sequence analysis, machine learning, and systems biology, which I try to combine to understand the complex interactions in symbiotic communities. Additionally, I also like to develop small mobile games. 
+I am passionate about bioinformatics and programming. My scientific interests are sequence analysis, machine learning, and systems biology, which I try to combine to understand the complex interactions in symbiotic communities.
 
 My research
 ------
