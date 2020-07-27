@@ -16,4 +16,4 @@ Why do organisms cooperate, instead of living solitarily? I am interested in thi
 
 My games 
 ------
-In my free time, I like to develop educational games, such as this one [here](https://euba.github.io/EvoGame/).
+In my free time, I like to develop educational games, such as this one [here](https://euba.github.io/EvoGame/), which was developed for students.
