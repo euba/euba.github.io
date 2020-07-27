@@ -1,6 +1,6 @@
 ---
 title: "Genome Pizza"
-excerpt: "This graphics visualizes the genome sequences of 26 related genomes of reed beetle microbial symbionts.<br/><img src='/images/circos_full_circle.pdf'>"
+excerpt: "This graphics visualizes the genome sequences of 26 related genomes of reed beetle microbial symbionts.<br/><img src='/images/circos_full_circle.png'>"
 collection: portfolio
 ---
 
