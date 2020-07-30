@@ -1,5 +1,5 @@
 ---
-title: "Genome Pizza"
+title: "Genome Roulette"
 excerpt: "<br/><img src='/images/circos_full_circle.png'>"
 collection: portfolio
 ---
