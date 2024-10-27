@@ -81,8 +81,8 @@ analytics:
 author:
   name             : "Eugen Bauer"
   avatar           : "profile.png"
-  bio              : "Bioinformatics - Symbiosis - Systems Biology"
-  location         : "Mainz, DEU"
+  bio              : "Bioinformatics | Data science"
+  location         : "DEU"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=uifOgssAAAAJ&hl=en"
   email            :
@@ -105,7 +105,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "eugbau"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
