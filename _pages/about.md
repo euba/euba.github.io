@@ -8,12 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am passionate about bioinformatics and programming. My scientific interests are sequence analysis, machine learning, and systems biology, which I try to combine to understand the complex interactions in biology.
+I am passionate about bioinformatics and programming in R and Python. My scientific interests include sequence analysis, machine learning, and systems biology, which I like to combine to understand the complex interactions in biology and biomedicine.
 
-My research
+My research work
 ------
-Why do organisms cooperate, instead of living solitarily? I am interested in this questions in relation to symbiotic associations between microbes and animals. Mostly, I focussed on insect symbioses, but I have worked on the human gut microbiota as well. To study these systems, I analyze next generation sequencing data and integrate this information in computational models. I am currently working at the [Johannes Gutenberg-University Mainz](http://www.bio.uni-mainz.de/zoo/oekologie/277_ENG_HTML.php).
+In my research, I was working on various biological systems utilizing next-generation sequencing (NGS) and multi-omics data (genomics, transcriptomics, metabolomics). These complex datasets are high-dimensional in nature and require computational tools to analyze and make sense of. To this end, I developed and applied different methods in bioinformatics and machine learning to reduce this data to meaningful insights.
+
+Nowadays, I have switched from academia to industry to apply my data analysis skill set to real-world problems and make an impact on the projects I am involved in.
+
+Feel free to check out my publication page to read more about the research I was doing, go to the portfolio page to get some visual impressions, or check out my CV section to get to know what I am currently up to.
 
 My games 
 ------
-In my free time, I like to develop educational games, such as this one [here](https://euba.github.io/EvoGame/), which was developed for students to teach how ecological adaptations like camouflage, aposematism, and mimicry can establish in a population under the selective pressure of predation.
+In my free time, I like to develop educational games, such as this one [here](https://euba.github.io/EvoGame/), which was developed for students to teach how ecological adaptations, like camouflage, aposematism, and mimicry, can establish in a population under the selective pressure of predation
