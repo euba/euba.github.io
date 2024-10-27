@@ -16,8 +16,8 @@ In my research, I was working on various biological systems utilizing next-gener
 
 Nowadays, I have switched from academia to industry to apply my data analysis skill set to real-world problems and make an impact on the projects I am involved in.
 
-Feel free to check out my publication page to read more about the research I was doing, go to the portfolio page to get some visual impressions, or check out my CV section to get to know what I am currently up to.
+Feel free to check out my [publication page](https://euba.github.io/publications/) to read more about the research I did, go to the [portfolio page](https://euba.github.io/portfolio/) to get some visual impressions, or check out my [CV page](https://euba.github.io/cv/) to get to know what I am currently up to.
 
 My games 
 ------
-In my free time, I like to develop educational games, such as this one [here](https://euba.github.io/EvoGame/), which was developed for students to teach how ecological adaptations, like camouflage, aposematism, and mimicry, can establish in a population under the selective pressure of predation
+In my free time, I like to develop various games, such as this one [here](https://euba.github.io/EvoGame/). This educational game was developed together with my colleagues to teach students how ecological adaptations, like camouflage, aposematism, and mimicry, can establish in a population under the selective pressure of predation
